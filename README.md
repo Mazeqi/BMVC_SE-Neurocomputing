@@ -1,5 +1,3 @@
-# BMVC_SE-Neurocomputing
-
 ## Binary multi-view clustering with spectral embedding
 
 The official code of the paper " *Binary multi-view clustering with spectral embedding
